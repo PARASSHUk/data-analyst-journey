@@ -4,6 +4,7 @@
 - Total Days Practiced: 7
 - Days Missed: 0
 - Topic Covered: Microsoft Excel
+- 
 
 ## Day by Day Summary
 
