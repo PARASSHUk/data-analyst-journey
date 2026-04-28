@@ -243,4 +243,4 @@ FROM sales_2004;
 
 -- JOINS - INNER JOIN, LEFT JOIN, RIGHT JOIN
 -- How to combine two or more tables
--- Subqueries inside WHERE and SELECT
+-- Subqueries inside WHERE and SELECTf
