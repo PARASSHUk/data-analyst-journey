@@ -1,5 +1,5 @@
 -- ================================================
--- Day 48 - SQL Learning Notes
+-- Day 46 - SQL Learning Notes
 -- Topic: Revised All Previous Projects and
 --        Started New SQL + Excel Pizza
 --        Dashboard Project
