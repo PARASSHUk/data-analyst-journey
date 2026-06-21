@@ -1,5 +1,5 @@
 -- ================================================
--- Day 50 - SQL Learning Notes
+-- Day 48 - SQL Learning Notes
 -- Topic: SQL Revision and Pizza Dashboard
 --        Project - Charts and KPIs Built
 -- ================================================
